@@ -1,7 +1,7 @@
 {
     "analyzers": {
       "core": {
-        "verbose": false,
+        "verbose": true,
         "enabled": true,
         "rules": {
           "no-hardcoded-env-urls": {
